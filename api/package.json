@@ -11,16 +11,16 @@
 
   "repository": {
    "type": "git",
-   "url": "git+https://github.com/Zolimar486/api.git"
+   "url": "git+https://github.com/Zolimar486/api-blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-   "url": "https://github.com/Zolimar486/api.git/issues"
+   "url": "https://github.com/Zolimar486/api-blog.git/issues"
   },
 
- "homepage": "https://github.com/Zolimar486/api.git#readme",
+ "homepage": "https://github.com/Zolimar486/api-blog.git#readme",
   "engines": {
     "node": "18.17.0"
   },
