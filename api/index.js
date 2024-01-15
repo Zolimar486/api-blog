@@ -3,10 +3,10 @@ const mongoose= require('mongoose')
 const dotenv= require('dotenv')
 const cors = require('cors')
 const path = require("path")
-const authRouter = require("../api/routers/auth")
-const userRouter = require('../api/routers/user')
-const postRouter = require('../api/routers/post')
-const commentRouter = require('../api/routers/comment')
+const authRouter = require("./routers/auth")
+const userRouter = require('./routers/user')
+const postRouter = require('./routers/post')
+const commentRouter = require('./routers/comment')
 
 const app = express();
 const port= process.env.PORT || 5000
